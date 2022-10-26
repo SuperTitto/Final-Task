@@ -1,0 +1,15 @@
+/Users/mac/Desktop/МОЯ УЧЕБА/Выбор специализации/Final Task/obj/Debug/net6.0/Final Task.csproj.AssemblyReference.cache
+/Users/mac/Desktop/МОЯ УЧЕБА/Выбор специализации/Final Task/obj/Debug/net6.0/Final Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/МОЯ УЧЕБА/Выбор специализации/Final Task/obj/Debug/net6.0/Final Task.AssemblyInfoInputs.cache
+/Users/mac/Desktop/МОЯ УЧЕБА/Выбор специализации/Final Task/obj/Debug/net6.0/Final Task.AssemblyInfo.cs
+/Users/mac/Desktop/МОЯ УЧЕБА/Выбор специализации/Final Task/obj/Debug/net6.0/Final Task.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/МОЯ УЧЕБА/Выбор специализации/Final Task/bin/Debug/net6.0/Final Task
+/Users/mac/Desktop/МОЯ УЧЕБА/Выбор специализации/Final Task/bin/Debug/net6.0/Final Task.deps.json
+/Users/mac/Desktop/МОЯ УЧЕБА/Выбор специализации/Final Task/bin/Debug/net6.0/Final Task.runtimeconfig.json
+/Users/mac/Desktop/МОЯ УЧЕБА/Выбор специализации/Final Task/bin/Debug/net6.0/Final Task.dll
+/Users/mac/Desktop/МОЯ УЧЕБА/Выбор специализации/Final Task/bin/Debug/net6.0/Final Task.pdb
+/Users/mac/Desktop/МОЯ УЧЕБА/Выбор специализации/Final Task/obj/Debug/net6.0/Final Task.dll
+/Users/mac/Desktop/МОЯ УЧЕБА/Выбор специализации/Final Task/obj/Debug/net6.0/refint/Final Task.dll
+/Users/mac/Desktop/МОЯ УЧЕБА/Выбор специализации/Final Task/obj/Debug/net6.0/Final Task.pdb
+/Users/mac/Desktop/МОЯ УЧЕБА/Выбор специализации/Final Task/obj/Debug/net6.0/Final Task.genruntimeconfig.cache
+/Users/mac/Desktop/МОЯ УЧЕБА/Выбор специализации/Final Task/obj/Debug/net6.0/ref/Final Task.dll
